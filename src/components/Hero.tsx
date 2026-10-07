@@ -117,7 +117,7 @@ export const Hero: React.FC<HeroProps> = ({
               {/* Image Container - Completely Unobstructed */}
               <div className="relative rounded-lg overflow-hidden bg-slate-200 border border-slate-300">
                 <img
-                  src="/src/assets/images/hero_suburban_technician_1791385459299.jpg"
+                  src="./images/hero_suburban_technician.jpg"
                   alt="Suburban Heating & Air Conditioning technician servicing a Carrier system in Dallas, TX"
                   className="w-full h-80 sm:h-96 object-cover object-center block"
                   referrerPolicy="no-referrer"

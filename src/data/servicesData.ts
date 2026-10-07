@@ -15,7 +15,7 @@ export const SERVICES_DATA: ServiceDetail[] = [
     title: 'Air Conditioning Installation & Repair',
     tagline: 'Carrier® Factory Authorized Cooling Solutions Built for the Texas Heat',
     shortDescription: 'From high-efficiency multi-stage Carrier systems and mini-splits to custom wine cellar refrigeration and chilled water systems, Suburban keeps Dallas cool since 1967.',
-    image: '/src/assets/images/carrier_ac_system_1791385474174.jpg',
+    image: './images/carrier_ac_system.jpg',
     bullets: [
       'Carrier Factory Authorized Dealer installations with factory-backed warranties',
       '24/7 emergency AC repair with fully stocked service trucks',
@@ -50,7 +50,7 @@ export const SERVICES_DATA: ServiceDetail[] = [
     title: 'Heating Repair & Installation',
     tagline: 'Reliable Winter Warmth, Heat Pumps & Precision Load Calculations',
     shortDescription: 'Comprehensive heating repair, energy-efficient Carrier heat pumps, furnace replacements, and precision heat load engineering to keep your family warm when winter snaps strike.',
-    image: '/src/assets/images/hero_suburban_technician_1791385459299.jpg',
+    image: './images/hero_suburban_technician.jpg',
     bullets: [
       'Energy-efficient Carrier® heat pumps & high-efficiency gas furnaces',
       'Precision Manual J & D heat load calculations (never guess unit sizing)',
@@ -85,7 +85,7 @@ export const SERVICES_DATA: ServiceDetail[] = [
     title: 'Geothermal HVAC Systems',
     tagline: 'Earth-Coupled Renewable Heating & Cooling with Maximum Energy Efficiency',
     shortDescription: 'Harness the steady underground temperature of the Earth for ultra-efficient, environmentally friendly heating and cooling with whisper-quiet indoor units and immense utility savings.',
-    image: '/src/assets/images/carrier_ac_system_1791385474174.jpg',
+    image: './images/carrier_ac_system.jpg',
     bullets: [
       'Closed-loop and open-loop ground-source geothermal heat pumps',
       'Up to 70% reduction in heating and cooling energy expenditures',
@@ -119,7 +119,7 @@ export const SERVICES_DATA: ServiceDetail[] = [
     title: 'In-House Sheet Metal Fabrication Shop',
     tagline: 'Custom Ductwork Built in Dallas with 16+ Years Fabricator Mastery',
     shortDescription: 'Unlike most HVAC companies that wait weeks for third-party duct orders, Suburban operates its own complete sheet metal fabrication shop on Peachtree Street, crafting custom duct orders in-house.',
-    image: '/src/assets/images/sheet_metal_fabrication_1791385488338.jpg',
+    image: './images/sheet_metal_fabrication.jpg',
     bullets: [
       'Headed by our lead metal fabricator with over 16 years of specialized craftsmanship',
       'Zero delays: custom plenums, transitions, and fittings built on-site',
@@ -153,7 +153,7 @@ export const SERVICES_DATA: ServiceDetail[] = [
     title: 'Comprehensive HVAC Service Agreement',
     tagline: 'Biannual Preventative Tune-Ups, Priority Dispatch & Warranty Preservation',
     shortDescription: 'Routine spring and fall maintenance keep your HVAC systems operating at peak efficiency, lowers energy bills, extends equipment lifespan, and gives you priority dispatch status year-round.',
-    image: '/src/assets/images/hero_suburban_technician_1791385459299.jpg',
+    image: './images/hero_suburban_technician.jpg',
     bullets: [
       'Spring cooling tune-up & Fall heating comprehensive safety inspection',
       'Deep cleaning of outdoor condenser coils & debris removal',
@@ -190,7 +190,7 @@ export const SERVICES_DATA: ServiceDetail[] = [
     title: 'Commercial HVAC Solutions & Rooftop Units',
     tagline: 'Plan & Spec Pricing, Mechanical Engineering & Multi-System Installations',
     shortDescription: 'Turnkey commercial HVAC solutions for retail centers, corporate offices, warehouses, and industrial facilities with in-house mechanical design and rooftop unit deployment.',
-    image: '/src/assets/images/commercial_hvac_system_1791385502824.jpg',
+    image: './images/commercial_hvac_system.jpg',
     bullets: [
       'Packaged rooftop units (RTU) & split commercial systems',
       'Plan and spec bidding with in-house mechanical CAD design',
