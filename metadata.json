@@ -1,0 +1,6 @@
+{
+  "name": "Suburban Heating & Air Conditioning Co",
+  "description": "Dallas residential and commercial HVAC service contractor since 1967. Carrier Factory Authorized Dealer with 24/7 emergency dispatch, in-house metal fabrication, and A+ BBB rating.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
